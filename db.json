@@ -1,0 +1,268 @@
+
+
+{
+    "students_data" : [
+        {
+            "student_id"   : 1,
+            "student_name" : "Abdur Rahim",
+            "class"        : "Five",
+            "roll_no"      : 10,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 69,
+                           "english" : 80,
+                           "math"    : 90,
+                           "social_s": 55,
+                           "science" : 88,
+                           "religion": 59
+
+                        }
+
+        },
+        {
+            "student_id"   : 2,
+            "student_name" : "Abdul Karim",
+            "class"        : "Five",
+            "roll_no"      : 11,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 76,
+                           "english" : 90,
+                           "math"    : 72,
+                           "social_s": 66,
+                           "science" : 49,
+                           "religion": 80
+
+                        }
+
+        },
+        {
+            "student_id"   : 3,
+            "student_name" : "Sajol",
+            "class"        : "Five",
+            "roll_no"      : 12,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 39,
+                           "english" : 58,
+                           "math"    : 75,
+                           "social_s": 88,
+                           "science" : 45,
+                           "religion": 78
+
+                        }
+
+        },
+        {
+            "student_id"   : 4,
+            "student_name" : "Halima Akter",
+            "class"        : "Five",
+            "roll_no"      : 13,
+            "gender"       : "Female",
+            "marks"        : {
+                           "bangla"  : 90,
+                           "english" : 58,
+                           "math"    : 60,
+                           "social_s": 95,
+                           "science" : 48,
+                           "religion": 80
+
+                        }
+
+        },
+        {
+            "student_id"   : 5,
+            "student_name" : "Sumi Akter",
+            "class"        : "Five",
+            "roll_no"      : 14,
+            "gender"       : "Female",
+            "marks"        : {
+                           "bangla"  : 60,
+                           "english" : 50,
+                           "math"    : 70,
+                           "social_s": 90,
+                           "science" : 40,
+                           "religion": 50
+
+                        }
+
+        },
+        {
+            "student_id"   : 6,
+            "student_name" : "Anis Ahahmed",
+            "class"        : "Five",
+            "roll_no"      : 15,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 80,
+                           "english" : 59,
+                           "math"    : 78,
+                           "social_s": 66,
+                           "science" : 46,
+                           "religion": 90
+
+                        }
+
+        },
+        {
+            "student_id"   : 7,
+            "student_name" : "Rased",
+            "class"        : "Five",
+            "roll_no"      : 16,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 60,
+                           "english" : 50,
+                           "math"    : 70,
+                           "social_s": 90,
+                           "science" : 40,
+                           "religion": 50
+
+                        }
+
+        },
+        {
+            "student_id"   : 8,
+            "student_name" : "Basar",
+            "class"        : "Five",
+            "roll_no"      : 17,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 95,
+                           "english" : 40,
+                           "math"    : 77,
+                           "social_s": 88,
+                           "science" : 90,
+                           "religion": 98
+
+                        }
+
+        },
+        {
+            "student_id"   : 9,
+            "student_name" : "Rubel",
+            "class"        : "Five",
+            "roll_no"      : 18,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 55,
+                           "english" : 86,
+                           "math"    : 19,
+                           "social_s": 55,
+                           "science" : 46,
+                           "religion": 51
+
+                        }
+
+        },
+        {
+            "student_id"   : 10,
+            "student_name" : "Hamidur Rahman",
+            "class"        : "Five",
+            "roll_no"      : 19,
+            "gender"       : "Male",
+            "marks"        : {
+                           "bangla"  : 82,
+                           "english" : 80,
+                           "math"    : 95,
+                           "social_s": 87,
+                           "science" : 80,
+                           "religion": 90
+
+                        }
+
+        }
+    ],
+
+    "teachers_data" :[
+        {
+            "id"      : 1,
+            "name"    : "Asrafil Haque",
+            "age"     : 30,
+            "gender"  : "Male",
+            "skill"   : "MSC",
+            "phone"   : "017114...90",
+            "location": "Mirpur"
+        },
+        {
+           "id"      : 2,
+           "name"    : "Anisul Islam",
+           "age"     : 34,
+           "gender"  :"Male",
+           "skill"   : "MSC",
+           "phone"   : "017114...91",
+           "location": "Uttra"
+       },
+       {
+           "id"      : 3,
+           "name"    : "Nasir Uddin",
+           "age"     : 40,
+           "gender"  : "Male",
+           "skill"   : "BSC",
+           "phone"   : "017114...92",
+           "location": "Badda"
+       },
+       {
+           "id"      : 4,
+           "name"    : "Abul Kalam",
+           "age"     : 50,
+           "gender"  : "Male",
+           "skill"   : "BBA",
+           "phone"   : "017114...93",
+           "location": "Mirpur"
+       },
+       {
+           "id"      : 5,
+           "name"    : "Jamal",
+           "age"     : 37,
+           "gender"  : "Male",
+           "skill"   : "BSS",
+           "phone"   : "017114...94",
+           "location": "Savar"
+       },
+       {
+           "id"      : 6,
+           "name"    : "Kamal",
+           "age"     : 59,
+           "skill"   : "MBA",
+           "phone"   : "017114...95",
+           "location": "Uttra"
+       },
+       {
+           "id"      : 7,
+           "name"    : "Meherun Nesa",
+           "age"     : 36,
+           "gender"  :"Female",
+           "skill"   : "MSC",
+           "phone"   : "017114...96",
+           "location": "Mirpur"
+       },
+       {
+           "id"      : 8,
+           "name"    : "Jamela Khatun",
+           "age"     : 30,
+           "gender"  : "Female",
+           "skill"   : "BSC",
+           "phone"   : "017114...97",
+           "location": "Badda"
+       },
+       {
+           "id"      : 9,
+           "name"    : "Ayesha Aktar",
+           "age"     : 33,
+           "gender"  : "Female",
+           "skill"   : "MSC",
+           "phone"   : "017114...98",
+           "location": "Uttra"
+       },
+       {
+           "id"      : 10,
+           "name"    : "Asmaul Husna",
+           "age"     : 30,
+           "gender"  : "Female",
+           "skill"   : "MSC",
+           "phone"   : "017114...99",
+           "location": "Mirpur"
+       }
+    ]
+}
